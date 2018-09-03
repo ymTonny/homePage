@@ -25,7 +25,7 @@ var S = {
                     S.Drawing.init('.canvas');
                     document.body.classList.add('body--ready');
 					if(p){
-						S.UI.simulate("I'm|ymTonny|welcome to|visit my blog|#countdown 3");
+						S.UI.simulate("I'm|ymTonny|welcome to|visit my world|#countdown 3");
 					}else{
 						S.UI.simulate("#countdown 3");	
 					}
