@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fac2318-80d7-42c3-a346-0a16e278ecd1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tap/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tap/js/mikutap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tap/js/mikutap.min.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -27,11 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tap/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+            <state relative-caret-position="551">
+              <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mikutap.min.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tap/js/mikutap.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret column="2257" selection-start-column="2257" selection-end-column="2257" />
             </state>
           </provider>
         </entry>
@@ -60,8 +67,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ymTonny_files/Seffects.js" />
-        <option value="$PROJECT_DIR$/Tap/js/mikutap.min.js" />
         <option value="$PROJECT_DIR$/Tap/index.html" />
+        <option value="$PROJECT_DIR$/Tap/js/mikutap.min.js" />
       </list>
     </option>
   </component>
@@ -168,12 +175,12 @@
       <updated>1535944545470</updated>
       <workItem from="1535944547262" duration="2683000" />
       <workItem from="1536023817587" duration="5252000" />
-      <workItem from="1536115178122" duration="1633000" />
+      <workItem from="1536115178122" duration="2255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9568000" />
+    <option name="totallyTimeSpent" value="10190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -302,13 +309,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tap/js/mikutap.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret column="5482" selection-start-column="5477" selection-end-column="5482" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tap/data/main/main.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -346,8 +346,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tap/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        <state relative-caret-position="551">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tap/js/mikutap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret column="2257" selection-start-column="2257" selection-end-column="2257" />
         </state>
       </provider>
     </entry>
